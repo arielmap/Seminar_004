@@ -1,0 +1,15 @@
+C:\Users\ariel\OneDrive\Рабочий стол\Seminar002\seminar_002_04\bin\Debug\net6.0\seminar_002_04.exe
+C:\Users\ariel\OneDrive\Рабочий стол\Seminar002\seminar_002_04\bin\Debug\net6.0\seminar_002_04.deps.json
+C:\Users\ariel\OneDrive\Рабочий стол\Seminar002\seminar_002_04\bin\Debug\net6.0\seminar_002_04.runtimeconfig.json
+C:\Users\ariel\OneDrive\Рабочий стол\Seminar002\seminar_002_04\bin\Debug\net6.0\seminar_002_04.dll
+C:\Users\ariel\OneDrive\Рабочий стол\Seminar002\seminar_002_04\bin\Debug\net6.0\seminar_002_04.pdb
+C:\Users\ariel\OneDrive\Рабочий стол\Seminar002\seminar_002_04\obj\Debug\net6.0\seminar_002_04.csproj.AssemblyReference.cache
+C:\Users\ariel\OneDrive\Рабочий стол\Seminar002\seminar_002_04\obj\Debug\net6.0\seminar_002_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\OneDrive\Рабочий стол\Seminar002\seminar_002_04\obj\Debug\net6.0\seminar_002_04.AssemblyInfoInputs.cache
+C:\Users\ariel\OneDrive\Рабочий стол\Seminar002\seminar_002_04\obj\Debug\net6.0\seminar_002_04.AssemblyInfo.cs
+C:\Users\ariel\OneDrive\Рабочий стол\Seminar002\seminar_002_04\obj\Debug\net6.0\seminar_002_04.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Рабочий стол\Seminar002\seminar_002_04\obj\Debug\net6.0\seminar_002_04.dll
+C:\Users\ariel\OneDrive\Рабочий стол\Seminar002\seminar_002_04\obj\Debug\net6.0\refint\seminar_002_04.dll
+C:\Users\ariel\OneDrive\Рабочий стол\Seminar002\seminar_002_04\obj\Debug\net6.0\seminar_002_04.pdb
+C:\Users\ariel\OneDrive\Рабочий стол\Seminar002\seminar_002_04\obj\Debug\net6.0\seminar_002_04.genruntimeconfig.cache
+C:\Users\ariel\OneDrive\Рабочий стол\Seminar002\seminar_002_04\obj\Debug\net6.0\ref\seminar_002_04.dll
