@@ -1,0 +1,15 @@
+/Users/keynes/Desktop/seminar_and_lesson/Seminar_004_001/bin/Debug/net6.0/Seminar_004_001
+/Users/keynes/Desktop/seminar_and_lesson/Seminar_004_001/bin/Debug/net6.0/Seminar_004_001.deps.json
+/Users/keynes/Desktop/seminar_and_lesson/Seminar_004_001/bin/Debug/net6.0/Seminar_004_001.runtimeconfig.json
+/Users/keynes/Desktop/seminar_and_lesson/Seminar_004_001/bin/Debug/net6.0/Seminar_004_001.dll
+/Users/keynes/Desktop/seminar_and_lesson/Seminar_004_001/bin/Debug/net6.0/Seminar_004_001.pdb
+/Users/keynes/Desktop/seminar_and_lesson/Seminar_004_001/obj/Debug/net6.0/Seminar_004_001.csproj.AssemblyReference.cache
+/Users/keynes/Desktop/seminar_and_lesson/Seminar_004_001/obj/Debug/net6.0/Seminar_004_001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keynes/Desktop/seminar_and_lesson/Seminar_004_001/obj/Debug/net6.0/Seminar_004_001.AssemblyInfoInputs.cache
+/Users/keynes/Desktop/seminar_and_lesson/Seminar_004_001/obj/Debug/net6.0/Seminar_004_001.AssemblyInfo.cs
+/Users/keynes/Desktop/seminar_and_lesson/Seminar_004_001/obj/Debug/net6.0/Seminar_004_001.csproj.CoreCompileInputs.cache
+/Users/keynes/Desktop/seminar_and_lesson/Seminar_004_001/obj/Debug/net6.0/Seminar_004_001.dll
+/Users/keynes/Desktop/seminar_and_lesson/Seminar_004_001/obj/Debug/net6.0/refint/Seminar_004_001.dll
+/Users/keynes/Desktop/seminar_and_lesson/Seminar_004_001/obj/Debug/net6.0/Seminar_004_001.pdb
+/Users/keynes/Desktop/seminar_and_lesson/Seminar_004_001/obj/Debug/net6.0/Seminar_004_001.genruntimeconfig.cache
+/Users/keynes/Desktop/seminar_and_lesson/Seminar_004_001/obj/Debug/net6.0/ref/Seminar_004_001.dll
